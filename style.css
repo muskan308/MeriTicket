@@ -17,6 +17,7 @@ body{
     background:   url(https://cdn.hipwallpaper.com/i/5/16/p7SkBA.jpg);
     background-size: cover;
     background-attachment: fixed;
+
     min-height: 100vh;
 }
 ::-webkit-scrollbar{
